@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: RaidRoll|cffa050ffHelper|r
+## Author: EinBaum https://github.com/EinBaum
+## Version: 1.0
+## Notes: Type /rr or /raidroll
+## Dependencies:
+## OptionalDeps:
+## SavedVariablesPerCharacter: 
+## SavedVariables:
+RaidRollHelper.lua

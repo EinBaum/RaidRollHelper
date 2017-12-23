@@ -1,15 +1,17 @@
 # RaidRollHelper
 
 Only usable in raids.
-Does a fair /roll from 1 up to the number of raid players.
+Does a fair /roll from 1 up to the number of players in the raid.
 
-The "winner" at the rolled raid slot is printed in raid chat.
+The winner is printed in raid chat.
 
 
 Chat commands:
+
 	/rr
 	/raidroll
 
 Example output:
+
 	Player rolls 5 (1-40)
-	[Raid] [Player]: RR Winner [5] Name
+	[Raid] [Player]: RR Winner: [5] Name
